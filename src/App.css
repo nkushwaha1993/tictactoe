@@ -1,0 +1,8 @@
+@import "../node_modules/h8k-design/dist/index.css";
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
